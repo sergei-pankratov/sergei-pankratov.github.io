@@ -19,10 +19,12 @@ Sep 2009 - June 2014
 May 2022 - Present  
 Florida, USA, remote  
 An AI-based SaaS startup targeting USA court reporting industry.
-- Directed and supervised a team of 5 through the entire process of developing 3 new products, from prototyping to production.
+- Directed and supervised a team of 5 through the entire process of developing 3 new
+products, from prototyping to production.
 - Performed deep dives in hard technical problems.
-- Translated bussiness objectives into actionable items.
-- Conducted code reviews to maintain high standards of code quality and best practices, while also providing guidance to fellow developers.
+- Translated business objectives into actionable items.
+- Conducted code reviews to maintain high standards of code quality and best practices, while
+also guiding fellow developers.
 
 ### dltru.org
 *Senior Software Engineer*  
@@ -35,23 +37,23 @@ A government-backed project, in collaboration with the largest banks, aimed to a
 - Introduced SCRUM methodology to the team and took a role of the SCRUM master.
 
 ### Level01.io
-*Senior Software Engineer*
-A decentralized exchange for trading commodities, currencies and derivatives.
+*Senior Software Engineer*  
 Dec 2020 - Sep 2021  
 Hong-Kong, remote  
+A decentralized exchange for trading commodities, currencies and derivatives.
 - Engineered, maintained and took ownership of 6+ microservices forming a DeFi platform for trading derivatives.
 - Implemented a saga framework to process distributed transactions in a fault-tolerant manner.
 - Assembled microservices boilerplate codebase to increase maintainability and ease new microservices development.
 
 ### NetEx24.net
 *Software Engineering Team Lead*
-The largest russian cryptocurrency exchange website.
 Jan 2019 - Dec 2020  
 Moscow, Russia, Remote  
+The largest Russian cryptocurrency exchange website.
 - Designed and implemented a cryptocurrency payment gateway that handles turnover approaching $1 million daily.
-- Invented an unique payment accepting system for Ethereum and ERC-20 tokens that reduced company expenses by ~5%.
-- Conducted research of various cryptocurrencies implementations.
-- Lead a team of 6 people, conducted code-reviews, mentored junior developers, participated in product development strategizing.
+- Invented a unique payment-accepting system for Ethereum and ERC-20 tokens that reduced company expenses by ~5%.
+- Conducted research on various cryptocurrency implementations.
+- Led a team of 6 people, conducted code reviews, mentored junior developers, and participated in product development strategizing.
 
 ### Independent Contractor
 *Software Engineer*  
