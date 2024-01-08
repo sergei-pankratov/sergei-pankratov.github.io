@@ -17,7 +17,7 @@ Sep 2009 - June 2014
 ### VoiceScript.ai
 *Software Development Team Lead*  
 May 2022 - Present  
-Florida, USA, remote
+Florida, USA, remote  
 An AI-based SaaS startup targeting USA court reporting industry.
 - Directed and supervised a team of 5 through the entire process of developing 3 new products, from prototyping to production.
 - Performed deep dives in hard technical problems.
@@ -27,7 +27,7 @@ An AI-based SaaS startup targeting USA court reporting industry.
 ### dltru.org
 *Senior Software Engineer*  
 Sep 2021 - May 2022  
-Moscow, Russia, remote
+Moscow, Russia, remote  
 A government-backed project, in collaboration with the largest banks, aimed to automate the issuance of mortgage-backed securities nationwide.
 - Developed a decentralized system for a government-supervised process of registering and managing mortgage-backed securities.
 - Launched a successful pilot of the abovesaid system with 5 largest Russian banks.
@@ -47,7 +47,7 @@ Hong-Kong, remote
 *Software Engineering Team Lead*
 The largest russian cryptocurrency exchange website.
 Jan 2019 - Dec 2020  
-Moscow, Russia, Remote
+Moscow, Russia, Remote  
 - Designed and implemented a cryptocurrency payment gateway that handles turnover approaching $1 million daily.
 - Invented an unique payment accepting system for Ethereum and ERC-20 tokens that reduced company expenses by ~5%.
 - Conducted research of various cryptocurrencies implementations.
