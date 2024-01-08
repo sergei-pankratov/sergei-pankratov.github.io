@@ -34,7 +34,7 @@ A government-backed project, in collaboration with the largest banks, aimed to a
 - Overhauled the codebase to comply with IoC principle and common design patterns.
 - Introduced SCRUM methodology to the team and took a role of the SCRUM master.
 
-### level01.io
+### Level01.io
 *Senior Software Engineer*
 A decentralized exchange for trading commodities, currencies and derivatives.
 Dec 2020 - Sep 2021  
@@ -43,7 +43,7 @@ Hong-Kong, remote
 - Implemented a saga framework to process distributed transactions in a fault-tolerant manner.
 - Assembled microservices boilerplate codebase to increase maintainability and ease new microservices development.
 
-### netex24.net
+### NetEx24.net
 *Software Engineering Team Lead*
 The largest russian cryptocurrency exchange website.
 Jan 2019 - Dec 2020  
