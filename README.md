@@ -5,7 +5,7 @@ Phone: +995 551 154 432
 LinkedIn: [pankratovsergei](https://www.linkedin.com/in/pankratovsergei)
 
 ## Professional summary
-Versatile full-stack engineer with 13 years’ experience delivering products across retail, CRM, fintech, blockchain, SaaS, gamedev and AR domains. Skilled in C#, TypeScript, Go and Python, I handle the entire software lifecycle—architecting solutions, coding backend, frontend and desktop apps, setting up CI/CD, designing and optimising databases, integrating third-party APIs, and embedding analytics and AI features. As lead developer I drive technical decisions, liaise directly with business stakeholders and thrive in lean, fast-moving teams.
+Versatile full-stack engineer with 13 years’ experience delivering products across retail, CRM, fintech, blockchain, SaaS, gamedev and AR domains. Skilled in C#, TypeScript, Go and Python, I handle the entire software lifecycle-architecting solutions, coding backend, frontend and desktop apps, setting up CI/CD, designing and optimising databases, integrating third-party APIs, and embedding analytics and AI features. As lead developer I drive technical decisions, liaise directly with business stakeholders and thrive in lean, fast-moving teams.
 
 ## Education
 **Moscow State Institute of Radio Engineering, Electronics and Automation**  
